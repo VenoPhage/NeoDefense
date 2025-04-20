@@ -3,12 +3,12 @@
 
 <img src="gallery/mod.png" height="200"/>
 
-A mod designed to protect players from unwanted PvP interactions while still allowing PvP on servers!
+A NeoForge fork of a mod designed to protect players from unwanted PvP interactions while still allowing PvP on servers!
 
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://modrinth.com/mod/defense"><img alt="modrinth" src="gallery/modrinth.png" height=64></a>
-</p>
+</p> -->
 
 # Features
 
