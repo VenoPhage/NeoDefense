@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.mortimer_kerman.defense.mixin.client",
+  "package": "com.veno_phage.neo_defense.mixin.client",
   "compatibilityLevel": "JAVA_21",
   "client": [
     "ClientPlayerEntityMixin",

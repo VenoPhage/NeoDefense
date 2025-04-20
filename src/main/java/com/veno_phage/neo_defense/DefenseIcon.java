@@ -1,4 +1,4 @@
-package net.mortimer_kerman.defense;
+package com.veno_phage.neo_defense;
 
 import net.minecraft.util.Identifier;
 import net.minecraft.util.TranslatableOption;

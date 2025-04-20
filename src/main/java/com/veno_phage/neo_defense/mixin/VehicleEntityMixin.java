@@ -1,4 +1,4 @@
-package net.mortimer_kerman.defense.mixin;
+package com.veno_phage.neo_defense.mixin;
 
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityType;

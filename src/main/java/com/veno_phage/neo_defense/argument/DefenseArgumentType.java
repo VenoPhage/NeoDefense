@@ -1,4 +1,4 @@
-package net.mortimer_kerman.defense.argument;
+package com.veno_phage.neo_defense.argument;
 
 import com.mojang.brigadier.context.CommandContext;
 import net.minecraft.command.argument.EnumArgumentType;

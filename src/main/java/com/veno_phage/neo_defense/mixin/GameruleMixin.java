@@ -1,4 +1,4 @@
-package net.mortimer_kerman.defense.mixin;
+package com.veno_phage.neo_defense.mixin;
 
 import com.mojang.brigadier.arguments.BoolArgumentType;
 import com.mojang.brigadier.arguments.DoubleArgumentType;

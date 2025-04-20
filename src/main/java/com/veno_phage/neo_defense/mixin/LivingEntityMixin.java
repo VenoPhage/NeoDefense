@@ -1,4 +1,4 @@
-package net.mortimer_kerman.defense.mixin;
+package com.veno_phage.neo_defense.mixin;
 
 import net.fabricmc.fabric.api.networking.v1.ServerPlayNetworking;
 import net.minecraft.entity.*;

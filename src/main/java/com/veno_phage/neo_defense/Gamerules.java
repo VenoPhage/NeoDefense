@@ -1,4 +1,4 @@
-package net.mortimer_kerman.defense;
+package com.veno_phage.neo_defense;
 
 import net.fabricmc.fabric.api.gamerule.v1.GameRuleFactory;
 import net.fabricmc.fabric.api.gamerule.v1.GameRuleRegistry;
